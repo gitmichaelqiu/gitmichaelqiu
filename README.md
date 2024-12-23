@@ -1,6 +1,8 @@
 <div align="center">
 
-![logo](https://gitmichaelqiu.github.io/assets/logo-MK-round-little.svg)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome)
+
+[![gitmichaelqiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitmichaelqiu)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🌐 [My personal website](https://gitmichaelqiu.github.io/)
 
@@ -17,6 +19,12 @@
 ---
 
 - 🧑‍💻 [My Luogu page](https://www.luogu.com.cn/user/1050603)
+
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer)
+
+</div>
 
 <!---
 gitmichaelqiu/gitmichaelqiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
