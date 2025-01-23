@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Algorithms, Data Structures, ML
 - 💞️ I’m looking to collaborate on small educational projects
 - 📫 How to reach me: my email
-- 😄 Pronouns: OIer
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: idk
 
 ---
