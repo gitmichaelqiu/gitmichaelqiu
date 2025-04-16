@@ -11,7 +11,8 @@
 - 👋 Hi, I’m @gitmichaelqiu
 - 💞️ I’m looking to collaborate on educational projects
 - 😄 Pronouns: he/him
-- 🧑‍💻 [My Luogu page](https://www.luogu.com.cn/user/1050603)
+- 🧑‍💻 [My Luogu profile](https://www.luogu.com.cn/user/1050603)
+- 🧑‍💻 [My CodeForces profile](https://codeforces.com/profile/mickymike2077)
 
 ## My Top Repos
 
