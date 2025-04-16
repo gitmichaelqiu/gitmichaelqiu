@@ -4,9 +4,9 @@
 
 [![gitmichaelqiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitmichaelqiu)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🌐 [My personal website](https://gitmichaelqiu.github.io/)
-
 </div>
+
+## 🌐 [My Personal Website](https://gitmichaelqiu.github.io/)
 
 - 👋 Hi, I’m @gitmichaelqiu
 - 💞️ I’m looking to collaborate on educational projects
