@@ -4,21 +4,21 @@
 
 [![gitmichaelqiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitmichaelqiu)](https://github.com/anuraghazra/github-readme-stats)
 
-# 🌐 [My personal website](https://gitmichaelqiu.github.io/)
+## 🌐 [My personal website](https://gitmichaelqiu.github.io/)
 
 </div>
 
 - 👋 Hi, I’m @gitmichaelqiu
-- 👀 I’m an OIer
-- 🌱 I’m currently learning Algorithms, Data Structures, ML
-- 💞️ I’m looking to collaborate on small educational projects
-- 📫 How to reach me: my email
+- 💞️ I’m looking to collaborate on educational projects
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: idk
+- 🧑‍💻 [My Luogu page](https://www.luogu.com.cn/user/1050603)
+
+## My Top Repos
+
+- 📔 [LexiGen](https://github.com/gitmichaelqiu/LexiGen)
+- ✍️ [OllamaWritingTools](https://github.com/gitmichaelqiu/OllamaWritingTools)
 
 ---
-
-- 🧑‍💻 [My Luogu page](https://www.luogu.com.cn/user/1050603)
 
 <div align="center">
 
