@@ -11,14 +11,12 @@
 - 👋 Hi, I’m @gitmichaelqiu
 - 💞️ I’m looking to collaborate on educational projects
 - 😄 Pronouns: he/him
-- 🧑‍💻 [My Luogu profile](https://www.luogu.com.cn/user/1050603)
 <!---- 🧑‍💻 [My CodeForces profile](https://codeforces.com/profile/mickymike2077)--->
 
 ## My Top Repos
 
-- 📔 [LexiGen](https://github.com/gitmichaelqiu/LexiGen)
-- ✍️ [OllamaWritingTools](https://github.com/gitmichaelqiu/OllamaWritingTools)
 - 🖥️ [DesktopRenamer](https://github.com/gitmichaelqiu/DesktopRenamer)
+- 🖱️ [OptClick](https://github.com/gitmichaelqiu/OptClick)
 
 ---
 
