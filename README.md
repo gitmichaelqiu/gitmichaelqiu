@@ -18,17 +18,35 @@
 - 🖥️ [DesktopRenamer](https://github.com/gitmichaelqiu/DesktopRenamer)
 - 🖱️ [OptClick](https://github.com/gitmichaelqiu/OptClick)
 
+---
+
 <div align="center">
 
 [![Star History Chart](https://api.star-history.com/svg?repos=gitmichaelqiu/DesktopRenamer,gitmichaelqiu/OptClick&type=date&legend=top-left)](https://www.star-history.com/#gitmichaelqiu/DesktopRenamer&gitmichaelqiu/OptClick&type=date&legend=top-left)
 
 </div>
 
----
-
 <div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
+<!---
 ![](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer)
+!--->
+
+<p>Go work Micky!</p>
 
 </div>
 
