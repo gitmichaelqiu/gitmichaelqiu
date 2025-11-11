@@ -18,6 +18,12 @@
 - 🖥️ [DesktopRenamer](https://github.com/gitmichaelqiu/DesktopRenamer)
 - 🖱️ [OptClick](https://github.com/gitmichaelqiu/OptClick)
 
+<div align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=gitmichaelqiu/DesktopRenamer,gitmichaelqiu/OptClick&type=date&legend=top-left)](https://www.star-history.com/#gitmichaelqiu/DesktopRenamer&gitmichaelqiu/OptClick&type=date&legend=top-left)
+
+</div>
+
 ---
 
 <div align="center">
