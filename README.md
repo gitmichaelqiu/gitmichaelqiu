@@ -9,14 +9,24 @@
 ## 🌐 [My Personal Website](https://gitmichaelqiu.github.io/)
 
 - 👋 Hi, I’m @gitmichaelqiu
-- 💞️ I’m looking to collaborate on educational projects
 - 😄 Pronouns: he/him
+
 <!---- 🧑‍💻 [My CodeForces profile](https://codeforces.com/profile/mickymike2077)--->
 
 ## My Top Repos
 
-- 🖥️ [DesktopRenamer](https://github.com/gitmichaelqiu/DesktopRenamer)
-- 🖱️ [OptClick](https://github.com/gitmichaelqiu/OptClick)
+<table align="leading" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/gitmichaelqiu/DesktopRenamer/blob/main/DesktopRenamer/Resources/DesktopRenamerIcon_Default.png" width="200"/><br>
+      <a href="https://github.com/gitmichaelqiu/DesktopRenamer">DesktopRenamer</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/gitmichaelqiu/OptClick/blob/main/OptClick/Resources/OptClickIcon_Default.png" width="200"/><br>
+      <a href="https://github.com/gitmichaelqiu/OptClick">OptClick</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
