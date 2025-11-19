@@ -8,10 +8,9 @@
 
 ## 🌐 [My Personal Website](https://gitmichaelqiu.github.io/)
 
-- 👋 Hi, I’m @gitmichaelqiu
+- 👋 Hi, I’m @gitmichaelqiu, Michael Y. Qiu
+- 🗣️ You can pronounce *Qiu* as how the letter *Q* is pronounced
 - 😄 Pronouns: he/him
-
-<!---- 🧑‍💻 [My CodeForces profile](https://codeforces.com/profile/mickymike2077)--->
 
 ## My Top Repos
 
@@ -34,15 +33,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/gitmichaelqiu/gitmichaelqiu/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/gitmichaelqiu/gitmichaelqiu/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/gitmichaelqiu/gitmichaelqiu/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
