@@ -21,8 +21,8 @@
       <a href="https://github.com/gitmichaelqiu/DesktopRenamer">DesktopRenamer</a>
     </td>
     <td align="center">
-      <img src="https://github.com/gitmichaelqiu/OptClick/blob/main/OptClick/Resources/OptClickIcon_Default.png" width="200"/><br>
-      <a href="https://github.com/gitmichaelqiu/OptClick">OptClick</a>
+      <img src="https://github.com/gitmichaelqiu/OptClick/blob/main/OptClicker/Resources/OptClickerIcon_Default.png" width="200"/><br>
+      <a href="https://github.com/gitmichaelqiu/OptClicker">OptClicker</a>
     </td>
   </tr>
 </table>
