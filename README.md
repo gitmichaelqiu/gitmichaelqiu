@@ -14,8 +14,11 @@
 
 ## My Top Repos
 
+### macOS-er Series
+
+They are not separate apps. They are a complete **WORKFLOW**.
+
 <table align="leading" border="0" cellpadding="0" cellspacing="0">
-  <caption>macOS-er Series</caption>
   <tr>
     <td align="center">
       <img src="https://github.com/gitmichaelqiu/DesktopRenamer/blob/main/DesktopRenamer/Resources/DesktopRenamerIcon_Default.png" width="200"/><br>
