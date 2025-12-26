@@ -23,15 +23,24 @@ They are not separate apps. They are a complete **WORKFLOW**.
 <table align="leading" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
-      <img src="https://github.com/gitmichaelqiu/DesktopRenamer/blob/main/DesktopRenamer/Resources/DesktopRenamerIcon_Default.png" width="200"/><br>
+      <a href="https://github.com/gitmichaelqiu/DesktopRenamer">
+        <img src="https://github.com/gitmichaelqiu/DesktopRenamer/blob/main/DesktopRenamer/Resources/DesktopRenamerIcon_Default.png?raw=true" width="200"/>
+      </a>
+      <br>
       <a href="https://github.com/gitmichaelqiu/DesktopRenamer">DesktopRenamer</a>
     </td>
     <td align="center">
-      <img src="https://github.com/gitmichaelqiu/OptClick/blob/main/OptClicker/Resources/OptClickerIcon_Default.png" width="200"/><br>
+      <a href="https://github.com/gitmichaelqiu/OptClicker">
+        <img src="https://github.com/gitmichaelqiu/OptClick/blob/main/OptClicker/Resources/OptClickerIcon_Default.png?raw=true" width="200"/>
+      </a>
+      <br>
       <a href="https://github.com/gitmichaelqiu/OptClicker">OptClicker</a>
     </td>
     <td align="center">
-      <img src="https://github.com/gitmichaelqiu/SpaceSwitcher/blob/main/SpaceSwitcher/Resources/SpaceSwitcherIcon_Default.png" width="200"/><br>
+      <a href="https://github.com/gitmichaelqiu/SpaceSwitcher">
+        <img src="https://github.com/gitmichaelqiu/SpaceSwitcher/blob/main/SpaceSwitcher/Resources/SpaceSwitcherIcon_Default.png?raw=true" width="200"/>
+      </a>
+      <br>
       <a href="https://github.com/gitmichaelqiu/SpaceSwitcher">SpaceSwitcher</a>
     </td>
   </tr>
