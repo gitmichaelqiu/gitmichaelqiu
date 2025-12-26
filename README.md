@@ -11,6 +11,8 @@
 - 👋 Hi, I’m @gitmichaelqiu, Michael Y. Qiu
 - 🗣️ You can pronounce *Qiu* as how the letter *Q* is pronounced
 - 😄 Pronouns: he/him
+- 🧑‍🎓 I am a student in Hangzhou Foreign Languages School
+- 🏌️ The president of HFLS CAL's CS Club
 
 ## My Top Repos
 
@@ -31,6 +33,61 @@ They are not separate apps. They are a complete **WORKFLOW**.
     <td align="center">
       <img src="https://github.com/gitmichaelqiu/SpaceSwitcher/blob/main/SpaceSwitcher/Resources/SpaceSwitcherIcon_Default.png" width="200"/><br>
       <a href="https://github.com/gitmichaelqiu/SpaceSwitcher">SpaceSwitcher</a>
+    </td>
+  </tr>
+</table>
+
+### Education Kit
+
+For education purpose. Part of them are licensed under ***GPL v3.0 License***, for I believe education tools shall always be free and open-sourced.
+
+<table align="leading" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="leading">
+      <a href="https://github.com/gitmichaelqiu/LexiGen">LexiGen</a><br>
+      <p>Generate vocabulary exercises with your local Ollama LLMs.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="leading">
+      <a href="https://github.com/gitmichaelqiu/MacroSim">MacroSim</a><br>
+      <p>A simple macroeconomics simulation game. Play as a president.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="leading">
+      <a href="https://github.com/gitmichaelqiu/CSClub-Archives">CSClub-Archives</a>
+      <p>All of the courses of HFLS CAL's CS Club. Feel free to use under <b>CC BY-NC 4.0</b> license.</p>
+    </td>
+  </tr>
+</table>
+
+
+### Other Interesting Projects
+
+<table align="leading" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="leading">
+      <a href="https://github.com/gitmichaelqiu/TradingStrategy">TradingStrategy</a><br>
+      <p>Experimenting various trading strategies.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="leading">
+      <a href="https://github.com/gitmichaelqiu/DocuTree">DocuTree</a>
+      <p>Generate file structure + content markdown for folders.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="leading">
+      <a href="https://github.com/gitmichaelqiu/Video-Insight"><color>Video-Insight</color></a><br>
+      <p><i>Archived.</i> Use local Ollama LLMs to summarize videos.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="leading">
+      <a href="https://github.com/gitmichaelqiu/GSM8K-Ollama-Tester">GSM8K-Ollama-Tester</a><br>
+      <p><i>Archived.</i> Test prompt's quality using GSM8K test set.</p>
     </td>
   </tr>
 </table>
