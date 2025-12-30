@@ -2,7 +2,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome)
 
-[![gitmichaelqiu's GitHub stats](https://github-readme-stats-tau-bay.vercel.app/api?username=gitmichaelqiu&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![gitmichaelqiu's GitHub stats](https://github-readme-stats-tau-bay.vercel.app/api?username=gitmichaelqiu&theme=transparent)
 
 </div>
 
@@ -102,6 +102,8 @@ For education purpose. Part of them are licensed under ***GPL v3.0 License***, f
 </table>
 
 ---
+
+![gitmichaelqiu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitmichaelqiu)
 
 <div align="center">
 <picture>
