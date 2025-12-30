@@ -103,7 +103,7 @@ For education purpose. Part of them are licensed under ***GPL v3.0 License***, f
 
 ---
 
-![gitmichaelqiu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitmichaelqiu)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gitmichaelqiu)
 
 <div align="center">
 <picture>
