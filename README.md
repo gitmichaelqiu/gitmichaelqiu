@@ -8,11 +8,14 @@
 
 ## 🌐 [My Personal Website](https://gitmichaelqiu.github.io/)
 
+Welcome visiting [My Site](https://gitmichaelqiu.github.io/) for furthur details, including my works and photography.
+
 - 👋 Hi, I’m @gitmichaelqiu, Michael Y. Qiu
 - 🗣️ You can pronounce *Qiu* as how the letter *Q* is pronounced
 - 😄 Pronouns: he/him
 - 🧑‍🎓 I am a student in Hangzhou Foreign Languages School
 - 🏌️ The president of HFLS CAL's CS Club
+- ✍️ I am learning: Computer Science, Data Science and Economics (fav: Monetarism)
 
 ## My Top Repos
 
@@ -128,8 +131,3 @@ For education purpose. Part of them are licensed under ***GPL v3.0 License***, f
 <p>Go work Micky!</p>
 
 </div>
-
-<!---
-gitmichaelqiu/gitmichaelqiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
