@@ -94,7 +94,7 @@ For education purpose. Part of them are licensed under ***GPL v3.0 License***, f
   </tr>
   <tr>
     <td align="leading">
-      <a href="https://github.com/gitmichaelqiu/AdaptiveRegimeStrategy">Adaptive Regime Strategy</a><br>
+      <a href="https://github.com/gitmichaelqiu/AdaptiveRegimeStrategy">AdaptiveRegimeStrategy</a><br>
       <p>Trading strategy based on ticker regimes.</p>
     </td>
   </tr>
