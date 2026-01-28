@@ -49,6 +49,15 @@ They are not separate apps. They are a complete **WORKFLOW**.
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="leading">
+      <a href="https://www.raycast.com/michael_qiu/desktop-renamer">DesktopRenamer Raycast Extension</a><br>
+      <p>Control DesktopRenamer from Raycast. Source code <a href="https://github.com/gitmichaelqiu/Raycast_DesktopRenamer">here</a>.</p>
+    </td>
+  </tr>
+</table>
+
 ### Education Kit
 
 For education purpose. Part of them are licensed under ***GPL v3.0 License***, for I believe education tools shall always be free and open-sourced.
