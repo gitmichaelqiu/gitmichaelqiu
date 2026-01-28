@@ -83,6 +83,22 @@ For education purpose. Part of them are licensed under ***GPL v3.0 License***, f
   </tr>
 </table>
 
+### Trading Strategies
+
+<table align="leading" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="leading">
+      <a href="https://github.com/gitmichaelqiu/AccumRLMoEStrategy">AccumRLMoEStrategy</a><br>
+      <p>A Mixture of 3 Experts strategy with accumulation and PPO</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="leading">
+      <a href="https://github.com/gitmichaelqiu/AdaptiveRegimeStrategy">Adaptive Regime Strategy</a><br>
+      <p>Trading strategy based on ticker regimes.</p>
+    </td>
+  </tr>
+</table>
 
 ### Other Interesting Projects
 
@@ -91,12 +107,6 @@ For education purpose. Part of them are licensed under ***GPL v3.0 License***, f
     <td align="leading">
       <a href="https://github.com/gitmichaelqiu/AppleBrowserAI">AppleBrowserAI</a><br>
       <p>Use Apple Intelligence in your browser. Support both Firefox and Chromium.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="leading">
-      <a href="https://github.com/gitmichaelqiu/TradingStrategy">TradingStrategy</a><br>
-      <p>Experimenting various trading strategies.</p>
     </td>
   </tr>
   <tr>
