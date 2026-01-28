@@ -89,6 +89,12 @@ For education purpose. Part of them are licensed under ***GPL v3.0 License***, f
 <table align="leading" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="leading">
+      <a href="https://github.com/gitmichaelqiu/AppleBrowserAI">AppleBrowserAI</a><br>
+      <p>Use Apple Intelligence in your browser. Support both Firefox and Chromium.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="leading">
       <a href="https://github.com/gitmichaelqiu/TradingStrategy">TradingStrategy</a><br>
       <p>Experimenting various trading strategies.</p>
     </td>
