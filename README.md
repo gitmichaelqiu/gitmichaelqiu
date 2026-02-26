@@ -88,8 +88,14 @@ For education purpose. Part of them are licensed under ***GPL v3.0 License***, f
 <table align="leading" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="leading">
+      <a href="https://github.com/gitmichaelqiu/MetaHierarchicMARSStrategy">MetaHierarchicMARSStrategy</a><br>
+      <p>A hierarchic MoE framework for quantitative trading.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="leading">
       <a href="https://github.com/gitmichaelqiu/AccumRLMoEStrategy">AccumRLMoEStrategy</a><br>
-      <p>A Mixture of 3 Experts strategy with accumulation and PPO</p>
+      <p>A Mixture of 3 Experts strategy with accumulation and PPO.</p>
     </td>
   </tr>
   <tr>
