@@ -52,7 +52,7 @@ They are not separate apps. They are a complete **WORKFLOW**.
 <table>
   <tr>
     <td align="leading">
-      <a href="https://www.raycast.com/michael_qiu/desktop-renamer">DesktopRenamer Raycast Extension</a><br>
+      <a href="https://www.raycast.com/michael_qiu/desktoprenamer">DesktopRenamer Raycast Extension</a><br>
       <p>Control DesktopRenamer from Raycast. Source code <a href="https://github.com/gitmichaelqiu/Raycast_DesktopRenamer">here</a>.</p>
     </td>
   </tr>
