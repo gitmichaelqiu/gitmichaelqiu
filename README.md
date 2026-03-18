@@ -71,7 +71,7 @@ For education purpose. Part of them are licensed under ***GPL v3.0 License***, f
   </tr>
   <tr>
     <td align="leading">
-      <a href="https://github.com/gitmichaelqiu/MacroSim">MacroSim</a><br>
+      <a href="https://github.com/gitmichaelqiu/MacroecoSim">MacroecoSim</a><br>
       <p>A simple macroeconomics simulation game. Play as a president.</p>
     </td>
   </tr>
