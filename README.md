@@ -2,7 +2,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome)
 
-![gitmichaelqiu's GitHub stats](https://github-readme-stats-tau-bay.vercel.app/api?username=gitmichaelqiu&theme=transparent)
+![gitmichaelqiu's GitHub stats](https://github-readme-stats-seven-theta-37.vercel.app/api?username=gitmichaelqiu&theme=transparent)
 
 </div>
 
