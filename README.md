@@ -139,6 +139,8 @@ For education purpose. Part of them are licensed under ***GPL v3.0 License***, f
 
 [![GitHub Streak](https://github-readme-streak-stats-c39o.vercel.app?user=gitmichaelqiu&theme=transparent)](https://git.io/streak-stats)
 
+⬆️ I know this is broken... due to some node.js issues... lemme just fix it O.o
+
 <div align="center">
 <picture>
   <source
