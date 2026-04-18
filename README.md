@@ -15,7 +15,7 @@ Welcome visiting [My Site](https://gitmichaelqiu.github.io/) for furthur details
 - 😄 Pronouns: he/him
 - 🧑‍🎓 I am a student in Hangzhou Foreign Languages School
 - 🏌️ The president of HFLS CAL's CS Club
-- ✍️ I am learning: Computer Science, Data Science and Economics (fav: Monetarism)
+- ✍️ I am learning: Computer Science, Data Science and Economics
 
 ## My Top Repos
 
