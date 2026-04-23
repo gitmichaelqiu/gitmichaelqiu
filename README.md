@@ -14,7 +14,6 @@ Welcome visiting [My Site](https://gitmichaelqiu.github.io/) for furthur details
 - 🗣️ You can pronounce *Qiu* as how the letter *Q* is pronounced
 - 😄 Pronouns: he/him
 - 🧑‍🎓 I am a student in Hangzhou Foreign Languages School
-- 🏌️ The president of HFLS CAL's CS Club
 - ✍️ I am learning: Computer Science, Data Science and Economics
 
 ## My Top Repos
