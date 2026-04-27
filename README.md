@@ -6,7 +6,7 @@
 
 </div>
 
-## 🌐 [My Personal Website](https://gitmichaelqiu.github.io/)
+## 👋 Welcome!
 
 Welcome visiting [My Site](https://gitmichaelqiu.github.io/) for furthur details, including my works and photography.
 
