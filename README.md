@@ -8,7 +8,7 @@
 
 ## 👋 Welcome!
 
-Welcome visiting [My Site](https://gitmichaelqiu.github.io/) for furthur details, including my works and photography.
+Welcome visiting [mqiu.dev](https://mqiu.dev) for furthur details, including my works and photography.
 
 - 👋 Hi, I’m @gitmichaelqiu, Michael Y. Qiu
 - 🗣️ You can pronounce *Qiu* as how the letter *Q* is pronounced
