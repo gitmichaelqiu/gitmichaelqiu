@@ -18,7 +18,9 @@ Welcome visiting [mqiu.dev](https://mqiu.dev) for furthur details, including my 
 
 ## My Top Repos
 
-### macOS-er Series
+### macOS-er Collection
+
+#### Workflow Suite
 
 They are not separate apps. They are a complete **WORKFLOW**.
 
@@ -53,6 +55,20 @@ They are not separate apps. They are a complete **WORKFLOW**.
     <td align="leading">
       <a href="https://www.raycast.com/michael_qiu/desktoprenamer">DesktopRenamer Raycast Extension</a><br>
       <p>Control DesktopRenamer from Raycast. Source code <a href="https://github.com/gitmichaelqiu/Raycast_DesktopRenamer">here</a>.</p>
+    </td>
+  </tr>
+</table>
+
+#### Media Suite
+
+<table align="leading" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gitmichaelqiu/VTPlayer">
+        <img src="https://github.com/gitmichaelqiu/VTPlayer/blob/main/VTPlayerIcon.png?raw=true" width="200"/>
+      </a>
+      <br>
+      <a href="https://github.com/gitmichaelqiu/VTPlayer">VTPlayer</a>
     </td>
   </tr>
 </table>
