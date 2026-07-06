@@ -8,13 +8,13 @@
 
 ## 👋 Welcome!
 
-Welcome visiting [mqiu.dev](https://mqiu.dev) for furthur details, including my works and photography.
+Welcome visiting my website [mqiu.dev](https://mqiu.dev) for furthur details, including my works and photography.
 
-- 👋 Hi, I’m @gitmichaelqiu, Michael Y. Qiu
-- 🗣️ You can pronounce *Qiu* as how the letter *Q* is pronounced
-- 😄 Pronouns: he/him
-- 🧑‍🎓 I am a student in Hangzhou Foreign Languages School
-- ✍️ I am learning: Computer Science, Data Science and Economics
+- 👋 Hi, I’m @gitmichaelqiu, Michael Y. Qiu.
+- 🗣️ You can pronounce *Qiu* as the word *chew*.
+- 😄 Pronouns: he/him.
+- 🧑‍🎓 I am a student in Hangzhou Foreign Languages School.
+- ✍️ I am learning: Computer Science, Data Science and Economics.
 
 ## My Top Repos
 
@@ -73,9 +73,21 @@ They are not separate apps. They are a complete **WORKFLOW**.
   </tr>
 </table>
 
-### Education Kit
+### Education Colletion
 
 For education purpose. Part of them are licensed under ***GPL v3.0 License***, for I believe education tools shall always be free and open-sourced.
+
+<table align="leading" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gitmichaelqiu/Dialektik">
+        <img src="https://github.com/gitmichaelqiu/Dialektik/blob/main/DialektikIcon.png?raw=true" width="200"/>
+      </a>
+      <br>
+      <a href="https://github.com/gitmichaelqiu/Dialektik">Dialektik</a>
+    </td>
+  </tr>
+</table>
 
 <table align="leading" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -98,29 +110,6 @@ For education purpose. Part of them are licensed under ***GPL v3.0 License***, f
   </tr>
 </table>
 
-### Trading Strategies
-
-<table align="leading" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="leading">
-      <a href="https://github.com/gitmichaelqiu/MetaHierarchicMARSStrategy">MetaHierarchicMARSStrategy</a><br>
-      <p>A hierarchic MoE framework for quantitative trading.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="leading">
-      <a href="https://github.com/gitmichaelqiu/AccumRLMoEStrategy">AccumRLMoEStrategy</a><br>
-      <p>A Mixture of 3 Experts strategy with accumulation and PPO.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="leading">
-      <a href="https://github.com/gitmichaelqiu/AdaptiveRegimeStrategy">AdaptiveRegimeStrategy</a><br>
-      <p>Trading strategy based on ticker regimes.</p>
-    </td>
-  </tr>
-</table>
-
 ### Other Interesting Projects
 
 <table align="leading" border="0" cellpadding="0" cellspacing="0">
@@ -134,18 +123,6 @@ For education purpose. Part of them are licensed under ***GPL v3.0 License***, f
     <td align="leading">
       <a href="https://github.com/gitmichaelqiu/DocuTree">DocuTree</a>
       <p>Generate file structure + content markdown for folders.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="leading">
-      <a href="https://github.com/gitmichaelqiu/Video-Insight"><color>Video-Insight</color></a><br>
-      <p><i>Archived.</i> Use local Ollama LLMs to summarize videos.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="leading">
-      <a href="https://github.com/gitmichaelqiu/GSM8K-Ollama-Tester">GSM8K-Ollama-Tester</a><br>
-      <p><i>Archived.</i> Test prompt's quality using GSM8K test set.</p>
     </td>
   </tr>
 </table>
