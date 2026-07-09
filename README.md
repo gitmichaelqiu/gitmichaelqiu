@@ -75,7 +75,7 @@ They are not separate apps. They are a complete **WORKFLOW**.
 
 ### Education Colletion
 
-For education purpose. Part of them are licensed under ***GPL v3.0 License***, for I believe education tools shall always be free and open-sourced.
+For educational purpose. Part of them are licensed under ***GPL v3.0 License***, for I believe education tools shall always be free and open-sourced.
 
 <table align="leading" border="0" cellpadding="0" cellspacing="0">
   <tr>
