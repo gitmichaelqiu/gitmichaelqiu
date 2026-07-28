@@ -110,6 +110,17 @@ For educational purpose. Part of them are licensed under ***GPL v3.0 License***,
   </tr>
 </table>
 
+### Research Projects
+
+<table align="leading" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="leading">
+      <a href="https://github.com/gitmichaelqiu/LLMMisinfoClassification">Operational Trade-offs in LLM-Based Misinformation Classification</a><br>
+      <p>Evaluates the impact of LLM stack complexity on misinformation classification.</p>
+    </td>
+  </tr>
+</table>
+
 ### Other Interesting Projects
 
 <table align="leading" border="0" cellpadding="0" cellspacing="0">
