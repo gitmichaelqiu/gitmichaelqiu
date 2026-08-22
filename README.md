@@ -6,7 +6,7 @@
 
 </div>
 
-## 👋 Welcome!
+## 👋 Welcome! This is [mqiu.dev](https://mqiu.dev)
 
 Welcome visiting my website [mqiu.dev](https://mqiu.dev) for furthur details, including my works and photography.
 
@@ -15,6 +15,8 @@ Welcome visiting my website [mqiu.dev](https://mqiu.dev) for furthur details, in
 - 😄 Pronouns: he/him.
 - 🧑‍🎓 I am a student in Hangzhou Foreign Languages School.
 - ✍️ I am learning: Computer Science, Data Science and Economics.
+
+Want to connect? Send an email to [hello@mqiu.dev](mailto:hello@mqiu.dev). Read this before contacting me: [nohello.net](nohello.net). I may not respond to your message, please don't take it personally.
 
 ## My Top Repos
 
