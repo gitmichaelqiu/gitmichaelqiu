@@ -72,6 +72,13 @@ They are not separate apps. They are a complete **WORKFLOW**.
       <br>
       <a href="https://github.com/gitmichaelqiu/VTPlayer">VTPlayer</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/gitmichaelqiu/WallPainter">
+        <img src="https://github.com/gitmichaelqiu/WallPainter/raw/main/WallPainter/Resources/WallPainterIcon_Default.png?raw=true" width="200"/>
+      </a>
+      <br>
+      <a href="https://github.com/gitmichaelqiu/WallPainter">WallPainter</a>
+    </td>
   </tr>
 </table>
 
