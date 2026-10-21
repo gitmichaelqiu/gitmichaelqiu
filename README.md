@@ -8,11 +8,22 @@
     height="180"
     alt="GitHub Stats"
   />
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-trophies.vercel.app/?username=gitmichaelqiu&theme=onedark"
+    height="180"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-trophies.vercel.app/?username=gitmichaelqiu"
+    height="180"
+  />
   <img
     src="https://github-trophies.vercel.app/?username=gitmichaelqiu"
     height="180"
-    alt="GitHub Trophies"
   />
+</picture>
 </p>
 
 </div>
