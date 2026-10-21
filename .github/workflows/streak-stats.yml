@@ -36,5 +36,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
+          git add profile/streak-dark.svg
           git commit -m "chore: update streak stats" || exit 0
           git push
