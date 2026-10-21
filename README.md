@@ -2,7 +2,18 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome)
 
-![gitmichaelqiu's GitHub stats](https://github-stats-extended.vercel.app/api?username=gitmichaelqiu&theme=transparent)
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=gitmichaelqiu&theme=transparent"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-trophies.vercel.app/?username=gitmichaelqiu"
+    height="180"
+    alt="GitHub Trophies"
+  />
+</p>
 
 </div>
 
