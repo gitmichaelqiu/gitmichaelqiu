@@ -150,7 +150,22 @@ For educational purpose. Part of them are licensed under ***GPL v3.0 License***,
 ---
 
 <div align="center">
-<img src="https://github-readme-streak-stats-dusky-kappa-91.vercel.app?user=gitmichaelqiu&theme=transparent" alt="gitmichaelqiu's GitHub streak stats"
+
+<picture>
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="./profile/streak-dark.svg"
+/>
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="./profile/streak.svg"
+/>
+<img
+  alt="github contribution grid snake animation"
+  srcset="./profile/streak.svg"
+/>
+</picture>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
