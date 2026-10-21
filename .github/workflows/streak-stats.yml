@@ -20,8 +20,15 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: user=${{ github.repository_owner }}&theme=default&disable_animations=true
+          options: user=${{ github.repository_owner }}&theme=default&disable_animations=false
           path: profile/streak.svg
+          token: ${{ secrets.STREAK_STATS_TOKEN }}
+
+      - name: Generate dark streak stats
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=dark&disable_animations=false
+          path: profile/streak-dark.svg
           token: ${{ secrets.STREAK_STATS_TOKEN }}
 
       - name: Commit streak stats
@@ -29,5 +36,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
+          git commit -m "chore: update streak stats" || exit 0
           git push
