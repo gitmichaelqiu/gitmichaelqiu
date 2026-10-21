@@ -181,10 +181,12 @@ For educational purpose. Part of them are licensed under ***GPL v3.0 License***,
   />
 </picture>
 
+![](https://github-act-graph.rodriaum.com/graph?username=gitmichaelqiu&theme=github-compact&hide_border=true)
+
 <!---
 ![](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer)
 !--->
 
-<p>Go work Micky!</p>
+<!-- <p>Go work Micky!</p> -->
 
 </div>
