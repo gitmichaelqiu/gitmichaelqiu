@@ -108,7 +108,7 @@ They are not separate apps. They are a complete **WORKFLOW**.
 
 For educational purpose. Part of them are licensed under ***GPL v3.0 License***, for I believe education tools shall always be free and open-sourced.
 
-<table align="leading" border="0" cellpadding="0" cellspacing="0">
+<!-- <table align="leading" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
       <a href="https://github.com/gitmichaelqiu/Dialektik">
@@ -118,7 +118,7 @@ For educational purpose. Part of them are licensed under ***GPL v3.0 License***,
       <a href="https://github.com/gitmichaelqiu/Dialektik">Dialektik</a>
     </td>
   </tr>
-</table>
+</table> -->
 
 <table align="leading" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -188,7 +188,7 @@ For educational purpose. Part of them are licensed under ***GPL v3.0 License***,
 />
 </picture>
 
-<picture>
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/gitmichaelqiu/gitmichaelqiu/output/github-contribution-grid-snake-dark.svg"
@@ -201,7 +201,7 @@ For educational purpose. Part of them are licensed under ***GPL v3.0 License***,
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/gitmichaelqiu/gitmichaelqiu/output/github-contribution-grid-snake.svg"
   />
-</picture>
+</picture> -->
 
 ![](https://github-act-graph.rodriaum.com/graph?username=gitmichaelqiu&theme=github-compact&hide_border=true&hide_title=true)
 
