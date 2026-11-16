@@ -40,6 +40,11 @@ I build macOS apps, experiment with machine learning and low-level systems, and 
       <a href="https://github.com/gitmichaelqiu/SpaceSwitcher">SpaceSwitcher</a>
     </td>
   </tr>
+  <tr>
+    <td>Name and organize desktops.</td>
+    <td>Right-click with Option key.</td>
+    <td>Customize apps and Docks per desktop.</td>
+  </tr>
 </table>
 
 <table>
@@ -70,6 +75,10 @@ I build macOS apps, experiment with machine learning and low-level systems, and 
       <a href="https://github.com/gitmichaelqiu/WallPainter">WallPainter</a>
     </td>
   </tr>
+  <tr>
+    <td>Real-time video enhancement with VideoToolbox.</td>
+    <td>Automate macOS Aerial wallpapers.</td>
+  </tr>
 </table>
 
 ### Education Collection
@@ -94,7 +103,7 @@ I build macOS apps, experiment with machine learning and low-level systems, and 
   </tr>
 </table>
 
-### Forks & Modifications
+### Forks
 
 <table>
   <tr>
