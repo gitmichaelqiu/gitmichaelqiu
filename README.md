@@ -1,44 +1,14 @@
-<div align="center">
+## 👋 Welcome!
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome)
+I'm **Michael Y. Qiu** (`@gitmichaelqiu`), a student at Hangzhou Foreign Languages School.
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=gitmichaelqiu&theme=transparent"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-trophies.vercel.app/?username=gitmichaelqiu&theme=onedark"
-    height="180"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-trophies.vercel.app/?username=gitmichaelqiu"
-    height="180"
-  />
-  <img
-    src="https://github-trophies.vercel.app/?username=gitmichaelqiu"
-    height="180"
-  />
-</picture>
-</p>
+I build macOS apps, experiment with machine learning and low-level systems, and occasionally wander into browser development. Outside of code: photography, science fiction, and games.
 
-</div>
+*Qiu* is pronounced like *chew*.
 
-## 👋 Welcome! This is [mqiu.dev](https://mqiu.dev)
+**[Website ↗](https://mqiu.dev)** · **[Email ↗](mailto:hello@mqiu.dev)**
 
-Welcome visiting my website [mqiu.dev](https://mqiu.dev) for furthur details, including my works and photography.
-
-- 👋 Hi, I’m @gitmichaelqiu, Michael Y. Qiu.
-- 🗣️ You can pronounce *Qiu* as the word *chew*.
-- 😄 Pronouns: he/him.
-- 🧑‍🎓 I am a student in Hangzhou Foreign Languages School.
-- ✍️ I am learning: Computer Science, Data Science and Economics.
-
-Want to connect? Send an email to [hello@mqiu.dev](mailto:hello@mqiu.dev). Read this before contacting me: [nohello.net](nohello.net). I may not respond to your message, please don't take it personally.
+<img src="https://github-stats-extended.vercel.app/api?username=gitmichaelqiu&theme=transparent" height="180" alt="GitHub Stats" />
 
 ## My Top Repos
 
@@ -46,27 +16,25 @@ Want to connect? Send an email to [hello@mqiu.dev](mailto:hello@mqiu.dev). Read 
 
 #### Workflow Suite
 
-They are not separate apps. They are a complete **WORKFLOW**.
-
-<table align="leading" border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
       <a href="https://github.com/gitmichaelqiu/DesktopRenamer">
-        <img src="https://github.com/gitmichaelqiu/DesktopRenamer/blob/main/DesktopRenamer/Resources/DesktopRenamerIcon_Default.png?raw=true" width="200"/>
+        <img src="https://github.com/gitmichaelqiu/DesktopRenamer/blob/main/DesktopRenamer/Resources/DesktopRenamerIcon_Default.png?raw=true" width="150" alt="DesktopRenamer"/>
       </a>
       <br>
       <a href="https://github.com/gitmichaelqiu/DesktopRenamer">DesktopRenamer</a>
     </td>
     <td align="center">
       <a href="https://github.com/gitmichaelqiu/OptClicker">
-        <img src="https://github.com/gitmichaelqiu/OptClick/blob/main/OptClicker/Resources/OptClickerIcon_Default.png?raw=true" width="200"/>
+        <img src="https://github.com/gitmichaelqiu/OptClick/blob/main/OptClicker/Resources/OptClickerIcon_Default.png?raw=true" width="150" alt="OptClicker"/>
       </a>
       <br>
       <a href="https://github.com/gitmichaelqiu/OptClicker">OptClicker</a>
     </td>
     <td align="center">
       <a href="https://github.com/gitmichaelqiu/SpaceSwitcher">
-        <img src="https://github.com/gitmichaelqiu/SpaceSwitcher/blob/main/SpaceSwitcher/Resources/SpaceSwitcherIcon_Default.png?raw=true" width="200"/>
+        <img src="https://github.com/gitmichaelqiu/SpaceSwitcher/blob/main/SpaceSwitcher/Resources/SpaceSwitcherIcon_Default.png?raw=true" width="150" alt="SpaceSwitcher"/>
       </a>
       <br>
       <a href="https://github.com/gitmichaelqiu/SpaceSwitcher">SpaceSwitcher</a>
@@ -76,27 +44,27 @@ They are not separate apps. They are a complete **WORKFLOW**.
 
 <table>
   <tr>
-    <td align="leading">
-      <a href="https://www.raycast.com/michael_qiu/desktoprenamer">DesktopRenamer Raycast Extension</a><br>
-      <p>Control DesktopRenamer from Raycast. Source code <a href="https://github.com/gitmichaelqiu/Raycast_DesktopRenamer">here</a>.</p>
+    <td>
+      <a href="https://www.raycast.com/michael_qiu/desktoprenamer"><b>DesktopRenamer Raycast Extension</b></a><br>
+      Control DesktopRenamer from Raycast. <a href="https://github.com/gitmichaelqiu/Raycast_DesktopRenamer">Source code</a>.
     </td>
   </tr>
 </table>
 
 #### Media Suite
 
-<table align="leading" border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
       <a href="https://github.com/gitmichaelqiu/VTPlayer">
-        <img src="https://github.com/gitmichaelqiu/VTPlayer/blob/main/VTPlayerIcon.png?raw=true" width="200"/>
+        <img src="https://github.com/gitmichaelqiu/VTPlayer/blob/main/VTPlayerIcon.png?raw=true" width="150" alt="VTPlayer"/>
       </a>
       <br>
       <a href="https://github.com/gitmichaelqiu/VTPlayer">VTPlayer</a>
     </td>
     <td align="center">
       <a href="https://github.com/gitmichaelqiu/WallPainter">
-        <img src="https://github.com/gitmichaelqiu/WallPainter/raw/main/WallPainter/Resources/WallPainterIcon_Default.png?raw=true" width="200"/>
+        <img src="https://github.com/gitmichaelqiu/WallPainter/raw/main/WallPainter/Resources/WallPainterIcon_Default.png?raw=true" width="150" alt="WallPainter"/>
       </a>
       <br>
       <a href="https://github.com/gitmichaelqiu/WallPainter">WallPainter</a>
@@ -104,76 +72,51 @@ They are not separate apps. They are a complete **WORKFLOW**.
   </tr>
 </table>
 
-### Education Colletion
+### Education Collection
 
-<table align="leading" border="0" cellpadding="0" cellspacing="0">
+<table>
   <tr>
-    <td align="leading">
-      <a href="https://github.com/gitmichaelqiu/LexiGen">LexiGen</a><br>
-      <p>Generate vocabulary exercises with your local Ollama LLMs.</p>
-    </td>
+    <td><a href="https://github.com/gitmichaelqiu/LexiGen"><b>LexiGen</b></a><br>Generate vocabulary exercises with local Ollama LLMs.</td>
   </tr>
   <tr>
-    <td align="leading">
-      <a href="https://github.com/gitmichaelqiu/MacroecoSim">MacroecoSim</a><br>
-      <p>A simple macroeconomics simulation game. Play as a president.</p>
-    </td>
+    <td><a href="https://github.com/gitmichaelqiu/MacroecoSim"><b>MacroecoSim</b></a><br>A macroeconomics simulation game. Play as president.</td>
   </tr>
   <tr>
-    <td align="leading">
-      <a href="https://github.com/gitmichaelqiu/CSClub-Archives">CSClub-Archives</a>
-      <p>All of the courses of HFLS CAL's CS Club. Feel free to use under <b>CC BY-NC 4.0</b> license.</p>
-    </td>
+    <td><a href="https://github.com/gitmichaelqiu/CSClub-Archives"><b>CSClub Archives</b></a><br>HFLS CAL Computer Science Club course materials. CC BY-NC 4.0.</td>
   </tr>
 </table>
 
 ### Research Projects
 
-<table align="leading" border="0" cellpadding="0" cellspacing="0">
+<table>
   <tr>
-    <td align="leading">
-      <a href="https://github.com/gitmichaelqiu/LLMMisinfoClassification">Operational Trade-offs in LLM-Based Misinformation Classification</a><br>
-      <p>Evaluates the impact of LLM stack complexity on misinformation classification.</p>
+    <td><a href="https://github.com/gitmichaelqiu/LLMMisinfoClassification"><b>Operational Trade-offs in LLM-Based Misinformation Classification</b></a><br>Complexity and performance trade-offs in LLM-based misinformation classification.</td>
+  </tr>
+</table>
+
+### Forks & Modifications
+
+<table>
+  <tr>
+    <td width="76" align="center" valign="middle">
+      <a href="https://github.com/gitmichaelqiu/GrandSniffer">
+        <img src="https://raw.githubusercontent.com/gitmichaelqiu/GrandSniffer/main/GrandSnifferLogo.png" width="64" alt="GrandSniffer"/>
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/gitmichaelqiu/GrandSniffer"><b>GrandSniffer</b></a><br>
+      GrandPerspective, but SpaceSniffer. A macOS disk-usage visualizer.
     </td>
   </tr>
 </table>
 
 ### Other Interesting Projects
 
-<table align="leading" border="0" cellpadding="0" cellspacing="0">
+<table>
   <tr>
-    <td align="leading">
-      <a href="https://github.com/gitmichaelqiu/AppleBrowserAI">AppleBrowserAI</a><br>
-      <p>Use Apple Intelligence in your browser. Support both Firefox and Chromium.</p>
-    </td>
+    <td><a href="https://github.com/gitmichaelqiu/AppleBrowserAI"><b>AppleBrowserAI</b></a><br>Use Apple Intelligence in Firefox and Chromium.</td>
   </tr>
   <tr>
-    <td align="leading">
-      <a href="https://github.com/gitmichaelqiu/DocuTree">DocuTree</a>
-      <p>Generate file structure + content markdown for folders.</p>
-    </td>
+    <td><a href="https://github.com/gitmichaelqiu/DocuTree"><b>DocuTree</b></a><br>Generate folder structure and content Markdown.</td>
   </tr>
 </table>
-
----
-
-<div align="center">
-
-<picture>
-<source
-  media="(prefers-color-scheme: dark)"
-  srcset="./profile/streak-dark.svg"
-/>
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="./profile/streak.svg"
-/>
-<img
-  alt="github contribution grid snake animation"
-  srcset="./profile/streak.svg"
-/>
-</picture>
-
-![](https://github-act-graph.rodriaum.com/graph?username=gitmichaelqiu&theme=github-compact&hide_border=true&hide_title=true)
-
-</div>
