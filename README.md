@@ -114,7 +114,18 @@ I build macOS apps, experiment with machine learning and low-level systems, and 
     </td>
     <td valign="middle">
       <a href="https://github.com/gitmichaelqiu/GrandSniffer"><b>GrandSniffer</b></a><br>
-      GrandPerspective, but SpaceSniffer. A macOS disk-usage visualizer.
+      <a href="https://sourceforge.net/projects/grandperspectiv">GrandPerspective</a> but <a href="https://space-sniffer.com/">SpaceSniffer</a>. A macOS disk-usage visualizer.
+    </td>
+  </tr>
+  <tr>
+    <td width="76" align="center" valign="middle">
+      <a href="https://github.com/gitmichaelqiu/GrandSniffer">
+        <img src="https://raw.githubusercontent.com/gitmichaelqiu/LyricChiller/main/logo.png" width="64" alt="GrandSniffer"/>
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/gitmichaelqiu/LyricChiller"><b>LyricChiller</b></a><br>
+      Continued <a href="https://github.com/aviwad/LyricFever">LyricFever</a> with more polish.
     </td>
   </tr>
 </table>
