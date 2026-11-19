@@ -6,7 +6,7 @@ I build macOS apps, experiment with machine learning and low-level systems, and 
 
 *Qiu* is pronounced like *chew*.
 
-**[Website ↗](https://mqiu.dev)** · **[Email ↗](mailto:hello@mqiu.dev)**
+**[Website ↗](https://mqiu.dev)** · **[Blog ↗](https://mqiu.dev/blog)** · **[Email ↗](mailto:hello@mqiu.dev)**
 
 <img src="https://github-stats-extended.vercel.app/api?username=gitmichaelqiu&theme=transparent" height="180" alt="GitHub Stats" />
 
